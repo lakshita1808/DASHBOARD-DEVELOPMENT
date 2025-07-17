@@ -28,3 +28,7 @@ All files used in this project — the Power BI file (.pbix), the dataset (Detai
 
 In summary, this project shows how tools like Power BI can turn data into powerful stories through interactive dashboards that are not only informative but also easy to use and visually impressive.
 
+# OUTPUT:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/25bfd374-814b-4d9c-b89a-44d09314a523" />
+
